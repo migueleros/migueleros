@@ -11,7 +11,7 @@ I currently like <strong>front</strong> more than back, but i do enjoy making th
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_eross/)
 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-4A154B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.esoares.ext@picpay.com)
 
 #### Check some of the technologies i am studying or working with
 
