@@ -27,6 +27,3 @@ I currently like <strong>front</strong> more than back, but i do enjoy making th
 ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Now.. How about having a look at my GitHub activity stats?
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herlss&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlss&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
