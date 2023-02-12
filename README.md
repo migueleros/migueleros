@@ -18,5 +18,5 @@ I'm a brazilian programming student, and a part-timer at <strong>Picpay</strong>
 
 #### Github Activities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=herlss&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herlss&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueleros&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueleros&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
