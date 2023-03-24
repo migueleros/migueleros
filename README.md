@@ -22,5 +22,5 @@ I'm a brazilian programming student, and a part-timer at <strong>Picpay</strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueleros&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=higorbarbossa" alt="migueleros" />
+    <img src="https://komarev.com/ghpvc/?username=migueleros" alt="migueleros" />
 </p>
